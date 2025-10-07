@@ -20,3 +20,12 @@ else:
     (light=="green")
     print("You are in green.")
 
+
+A,B=2,3
+Txt="@"
+print(2*Txt*3)
+
+
+C,D=12,5
+E=C//D
+print(E)
