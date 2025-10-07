@@ -29,4 +29,6 @@ print(2*Txt*3)
 C,D=12,5
 E=C//D
 print(E)
+print(C)
+print(D)
 
