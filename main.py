@@ -9,6 +9,8 @@ age =int(input("Enter your age:"))
 print(name)
 print(age)
 
+print(name);
+
 
 #light=input("Enter your light:")
 #if(light=="red"):
