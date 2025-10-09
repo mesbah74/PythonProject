@@ -25,7 +25,6 @@ A,B=2,3
 Txt="@"
 print(2*Txt*3)
 
-
 C,D=12,5
 E=C//D
 print(E)
@@ -35,5 +34,13 @@ print(D)
 food = input("Enter your food:")
 eat="yes"if food=="cake"else "no"
 print(eat)
+
+
+side=float(input("Enter your side:"))
+print("area=",side*side)
+
+
+
+
 
 
