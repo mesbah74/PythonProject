@@ -39,6 +39,11 @@ print(eat)
 side=float(input("Enter your side:"))
 print("area=",side*side)
 
+a=float(input("Enter your first number:"))
+b=float(input("Enter your second number:"))
+
+print("avg=",a+b/2)
+
 
 
 
